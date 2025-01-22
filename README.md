@@ -11,5 +11,20 @@ This dataset is taken from analyses and surveys while taking the help from GITHU
    GROUP BY 
    ORDER BY
    HAVING VS WHERE 
+   CTE
+   SUB QUERY
+   CASE STATEMENTS
+   WINDOW FUNCTIONS
+   TRIGGERS AND EVENTS
+   and others t00
+
+# Insights 
+  - The employees demographics has been analyzed
+  - The employee salaries based on their age, gender, and department
+
+## How to RUN
+   - Import the SQL files into database
+   - Run queries using MySQL
+     
 
     
