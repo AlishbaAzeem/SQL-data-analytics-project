@@ -4,7 +4,7 @@ This project analyzes the business data related to corporate sector using SQL to
 # Dataset Description
 This dataset is taken from analyses and surveys while taking the help from GITHUB nad Kaggle
 
-# SQL queries used 
+# SQL Queries Used 
    All queries from beginner to advanced level are used including
    SELECT STATEMENT
    WHERE CLAUSE
@@ -22,7 +22,7 @@ This dataset is taken from analyses and surveys while taking the help from GITHU
   - The employees demographics has been analyzed
   - The employee salaries based on their age, gender, and department
 
-## How to RUN
+## How To RUN
    - Import the SQL files into database
    - Run queries using MySQL
      
